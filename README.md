@@ -2,26 +2,6 @@
 
 This is a document that will contain everything that goes in the head of your document
 
-
-
-Meta Tags
-
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="keywords" content="your,keywords,here,comma,separated,no,spaces">
-    <meta name="description" content="150 words">
-    <meta name="subject" content="your website's subject">
-    <meta name="language" content="en">
-    <meta name="robots" content="index,follow">
-    <meta name="revised" content="Sunday, July 18th, 2010, 5:15 pm">
-    <meta name="abstract" content="">
-    <meta name="topic" content="">
-    <meta name="summary" content="">
-    <meta name="Classification" content="Business">
-    <meta name="author" content="name, email@example.com">
-    <meta name="designer" content="">
-    <meta name="reply-to" content="email@example.com">
-    <meta name="owner" content="">
     
 Meta Tags
 
