@@ -74,6 +74,7 @@ Favicons
 
 
 Social
+
 Facebook / Open Graph
 
     <meta property="og:url" content="https://www.example.com/">
@@ -118,7 +119,6 @@ Apple iOS Tags
     <link rel="apple-touch-icon-precomposed" href="apple-touch-icon-precomposed.png">
     <link rel="apple-touch-startup-image" href="startup.png">
 <!-- More info: https://developer.apple.com/safari/library/documentation/appleapplications/reference/safarihtmlref/articles/metatags.html -->
-Apple Meta Tags
 
 Internet Explorer Meta Tags
 
@@ -133,8 +133,8 @@ Internet Explorer Meta Tags
 <!-- IE 11 / Windows 9.1 -->
 
     <meta name="msapplication-config" content="ieconfig.xml">
-    Internet Explorer Meta Tags (LEGACY DO NOT USE)
-
+    
+Internet Explorer Meta Tags (LEGACY DO NOT USE)
 <!-- Legacy Tags (DO NOT USE) -->
 
     <meta name="mssmarttagspreventparsing" content="true">
@@ -144,7 +144,6 @@ Internet Explorer Meta Tags
 Safari 9: Pinned tabs in El Capitan
 
     <link rel="mask-icon" href="icon.svg" color="red">
-
 
 Contributing
 
